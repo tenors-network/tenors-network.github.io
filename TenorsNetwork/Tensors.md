@@ -1,7 +1,6 @@
 ---
-title: Tensor
+title: Tensors
 ---
-
 
 
 This is a first try to present tensors
