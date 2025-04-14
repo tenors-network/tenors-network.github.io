@@ -2,7 +2,12 @@
 title: Optimization
 tags: []
 ---
-Optimization can be used to decompose a [[Tensors|tensor]]
+Optimization means solving problems of the form
+$$
+ \inf_{x \in S} f(x)
+ $$
 
-[[Polynomial optimization]]
+-  [[Polynomial optimization]] for [[Tensor Decomposition]]  
+- Polynomial Optimization for Quantic Computation
+
 

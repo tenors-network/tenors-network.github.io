@@ -1,23 +1,33 @@
 ---
 title: Tensors
+aliases:
+  - tensor
+tags:
+  - tensor
 ---
-#decomposition
 
 What are tensors ?
+
+Vectors are generalizations of scalars in higher *dimension*. Matrices are generalizations of vectors in another *mode*. Tensors can be seen as generalizations of matrices in *higher modes*. 
 
 ## Multlinear tensors
 
 $$
-T = [T_{i_1, ..., i_d}] \in E_1 \otimes \cdots \otimes E_d
+T \equiv [T_{i_1, ..., i_d}] = \sum_{i_1, \ldots, i_n}  T_{i_1, \ldots, i_d}\, x_{1,i_1} \otimes \cdots \otimes x_{d,i_d} \in E_1 \otimes \cdots \otimes E_d
 $$ 
 ## Symmetric tensors
 
 $$
-F = \sum_{|\alpha|=d} F_{\alpha} x_1^{\alpha_1} \cdots x_n^{\alpha_n} \in S^d(E)
+F = \sum_{|\alpha|=d} F_{\alpha} x_1^{\alpha_1} \cdots x_n^{\alpha_n} = \sum_{|\alpha|=d} F_{\alpha} \mathbf{x}^{\alpha} \in S^d(E)
 $$
 
-## Anti-Symmetric tensors
+## Skew-Symmetric tensors
 
 $$
 \Psi = \sum_{i_1< \cdots < i_d} \Psi_{i_1, \ldots, i_d} x_{i_1} \wedge \cdots \wedge x_{i_d} \in \wedge^d(E)
+$$
+## Multi-Symmetric tensors
+
+$$
+F = \sum_{x} F_{|\alpha_1|=d_1,\ldots, |\alpha_m|= d_m } \mathbf{x}_{1}^{\alpha_1} \cdots \mathbf{x}_m^{\alpha_m} \otimes F_{m}(x_{m}) \in S^{d_1}(E_1) \otimes \cdots \otimes S^{d_m}(E_m)
 $$
