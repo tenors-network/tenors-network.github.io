@@ -1,9 +1,9 @@
 ---
 title: Tensors
 ---
+#decomposition
 
-
-This is a first try to present tensors
+What are tensors ?
 
 ## Multlinear tensors
 
@@ -14,4 +14,10 @@ $$
 
 $$
 F = \sum_{|\alpha|=d} F_{\alpha} x_1^{\alpha_1} \cdots x_n^{\alpha_n} \in S^d(E)
+$$
+
+## Anti-Symmetric tensors
+
+$$
+\Psi = \sum_{i_1< \cdots < i_d} \Psi_{i_1, \ldots, i_d} x_{i_1} \wedge \cdots \wedge x_{i_d} \in \wedge^d(E)
 $$
