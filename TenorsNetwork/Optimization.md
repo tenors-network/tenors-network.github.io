@@ -1,7 +1,8 @@
 ---
 title: Optimization
-tags:
-  - "#Guide"
+tags: []
 ---
-Optimization can be used to decompose a [[Tensors|tensor]] 
+Optimization can be used to decompose a [[Tensors|tensor]]
+
+[[Polynomial optimization]]  
 
