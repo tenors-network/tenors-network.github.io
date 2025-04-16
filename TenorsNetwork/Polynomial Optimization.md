@@ -1,3 +1,7 @@
 ---
-Polynomial Optimization:
+title: Polynomial Optimization
+aliases:
+  - POP
+tags:
+  - optimization
 ---
