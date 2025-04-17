@@ -3,7 +3,8 @@ title: Tensor Decomposition
 tags:
   - "#tensor"
   - "#decomposition"
-  - "#course"
+  - polynomial
+  - course
 ---
 
 [[Tensors|Tensor]] decomposition is an important problem in the study of tensor properties, since it allows to reveal hidden structures. 

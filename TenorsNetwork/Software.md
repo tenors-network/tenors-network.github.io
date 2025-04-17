@@ -4,6 +4,7 @@ tags:
   - software
   - tensor
   - decomposition
+  - polynomial
 aliases:
 ---
 
