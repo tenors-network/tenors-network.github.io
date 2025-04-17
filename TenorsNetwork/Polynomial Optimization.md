@@ -4,6 +4,7 @@ aliases:
   - POP
 tags:
   - optimization
+  - polynomial
   - course
 ---
  - [Semidefinite approximations for polynomial optimization, with applications to quantum information](https://drive.google.com/file/d/1cgErrrstRVfacz2YQIryLiKNheHQ9LxZ/view?usp=sharing)|[Monique Laurent (CWI)](https://www.cwi.nl/en/people/monique-laurent/) 

@@ -4,6 +4,7 @@ aliases:
   - tensor
 tags:
   - tensor
+  - polynomial
 ---
 
 What are tensors ?
