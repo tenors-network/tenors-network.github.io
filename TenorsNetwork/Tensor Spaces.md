@@ -2,6 +2,7 @@
 title: Tensor Spaces
 tags:
   - tensor
+  - course
 ---
 # Metrics in tensor spaces
 
