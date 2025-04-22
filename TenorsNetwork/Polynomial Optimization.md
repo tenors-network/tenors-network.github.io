@@ -6,6 +6,7 @@ tags:
   - optimization
   - polynomial
   - course
+  - quantum
 ---
 
  

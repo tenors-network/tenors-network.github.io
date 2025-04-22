@@ -3,6 +3,7 @@ title: Tensor Spaces
 tags:
   - tensor
   - course
+  - quantum
 ---
 # Metrics in tensor spaces
 
