@@ -22,6 +22,6 @@ git clone https://github.com/tenors-network/tenors-network.github.io.git
  git push
  ```
 
-### Hint on the contributions
+### Hints for the contributions
 
 The pages are in `MarkDown`format. It is a simple format, which  allows LaTeX formulas between `$...$` or `$$...$$`. For a tutorial on this format see [here](https://www.markdownguide.org/basic-syntax/).
