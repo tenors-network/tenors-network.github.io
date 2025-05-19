@@ -10,8 +10,7 @@ This page explains how properly setup your computer in order to contribute to th
 - In addition, the account allows you to share your material to the GitHub pages  [Tenors Network](https://github.com/tenors-network).
 
 ## Clone the project
-
-- The rest of this guide is designed for people that have already created the account, if that is not your case, please follow this guide [[Link GitHub]].  
+  
 - Open the terminal in the folder where you want download and work on the project.
 - Clone the repository `tenors-network.github.io` on your computer, running this following line:
 ```bash
