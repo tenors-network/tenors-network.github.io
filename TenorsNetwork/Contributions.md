@@ -8,7 +8,7 @@ This page explains how to contribute to the [Tenors Network](https://github.com/
 ## GitHub Account
 
 - First you need a [GitHub](https://github.com/) account to publish your contribution and your material.
-- Try a push
+- After that you need to create a personal access token  
 
 # Quick Contribution
 
@@ -23,7 +23,7 @@ This part is designed for those who will be frequent contributors to this wiki. 
 ## Clone the project
   
 - Open the terminal in the folder where you want download and work on the project.
-- Clone the repository `tenors-network.github.io` on your computer, running this following line:
+- Clone the repository `tenors-network.github.io` via HTTPS on your computer, running this following line:
 ```bash
 git clone https://github.com/tenors-network/tenors-network.github.io.git
 ```
