@@ -15,7 +15,8 @@ Vectors are generalizations of scalars in higher *dimension*. Matrices are gener
 
 $$
 T \equiv [T_{i_1, ..., i_d}] = \sum_{i_1, \ldots, i_n}  T_{i_1, \ldots, i_d}\, x_{1,i_1} \otimes \cdots \otimes x_{d,i_d} \quad \in E_1 \otimes \cdots \otimes E_d
-$$ 
+$$
+
 ## Symmetric tensors 
 
 $$
