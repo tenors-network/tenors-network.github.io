@@ -7,11 +7,16 @@ tags:
   - polynomial
 ---
 
-What are tensors ?
+## What are tensors ?
+
 
 Vectors are generalizations of scalars in higher *dimension*. Matrices are generalizations of vectors in another *mode*. Tensors can be seen as generalizations of matrices in *higher modes*. 
 
+
+
+
 ## Multlinear tensors
+
 
 $$
 T \equiv [T_{i_1, ..., i_d}] = \sum_{i_1, \ldots, i_n}  T_{i_1, \ldots, i_d}\, x_{1,i_1} \otimes \cdots \otimes x_{d,i_d} \quad \in E_1 \otimes \cdots \otimes E_d
