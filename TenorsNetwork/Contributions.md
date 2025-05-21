@@ -8,7 +8,7 @@ This page explains how to contribute to the [Tenors Network](https://github.com/
 ## GitHub Account
 
 - First you need a [GitHub](https://github.com/) account to publish your contribution and your material.
-
+- Try a push
 
 # Quick Contribution
 
