@@ -14,7 +14,7 @@ This page explains how to contribute to the [Tenors Network](https://github.com/
 
 - You can edit this wiki directly from GitHub by opening the desired file and clicking the edit button.
 - Once you are in the edit page write your contribution in `Markdown`, a simple format that allows you to include LaTeX formulas, automatically highlight code, and other very useful things. You can find a guide following this [link](https://www.markdownguide.org/basic-syntax/).
-- Once you are done you can click on the `commit changes...` button to save your changes, specifying a message with a brief description of the changes.
+- When you are finished you can click on the `commit changes...` button to save your changes, specifying a message with a brief description of the changes.
 
 # Long-term Contribution
 
