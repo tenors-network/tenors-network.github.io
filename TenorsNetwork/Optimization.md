@@ -3,6 +3,7 @@ title: Optimization
 tags:
   - optimization
   - quantum
+  - polynomial
 ---
 Optimization means solving problems of the form
 $$
