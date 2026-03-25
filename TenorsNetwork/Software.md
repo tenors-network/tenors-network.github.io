@@ -22,8 +22,9 @@ aliases:
 	 -  [src](https://github.com/gismo/gismo) (C++) [doc](https://gismo.github.io) 
 
 - **SegVer O(1,2)**: tool for checking defectivity of Segre-Veronese varieties embedded by O(1,2).
-     - [src](https://github.com/tatarkajenej/SegVer-O-1-2-) (C++) [article](https://arxiv.org/abs/2503.21972)
+     - Author: Matěj Doležálek 
+	 - [src](https://github.com/tatarkajenej/SegVer-O-1-2-) (C++) [article](https://arxiv.org/abs/2503.21972)
        
  - **GAD.jl**: tools for Generalized Additive Decomposition of symmetric tensors. 
-     Author: Enrica Barrilli
-     [src](https://github.com/enricabarrilli/GAD.jl) (Julia). [article](https://hal.science/hal-05339397v1)
+    - Author: Enrica Barrilli
+    - [src](https://github.com/enricabarrilli/GAD.jl) (Julia). [article](https://hal.science/hal-05339397v1)
