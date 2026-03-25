@@ -1,5 +1,5 @@
 ---
-title: Tensors
+title: What is a tensor ?
 aliases:
   - tensor
 tags:
