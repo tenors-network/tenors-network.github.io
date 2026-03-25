@@ -36,7 +36,7 @@ A Generalized Additive Decomposition (GAD)  of a symmetric tensor $F$ of order $
 $$
  F = \sum_{i=1}^{r} \omega_i L_i^{d-k_i}
 $$
-where  $\omega_i$ is a symmetric tensor of degree $k_i, $L_i$ is a linear form (of degree $1$).
+where  $\omega_i$ is a symmetric tensor of degree $k_i$, $L_i$ is a linear form (of degree $1$).
 
 ## Cactus rank decomposition
 
