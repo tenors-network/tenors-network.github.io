@@ -7,8 +7,6 @@ tags:
   - polynomial
 ---
 
-## What are tensors ?
-
 
 Vectors are generalizations of scalars in higher *dimension*. Matrices are generalizations of vectors in another *mode*. Tensors can be seen as generalizations of matrices in *higher modes*. 
 

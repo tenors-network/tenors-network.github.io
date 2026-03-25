@@ -5,17 +5,17 @@ In quantum many-body physics, one often studies **families of quantum states** t
 ## 1. From Quantum States to Varieties
 
 - A pure state of \(N\) particles in local Hilbert space \(\mathbb{C}^d\) is a vector
-  \[
+  $$
   \psi \in (\mathbb{C}^d)^{\otimes N}.
-  \]
+  $$
 - In coordinates, \(\psi\) is specified by complex amplitudes \(\psi_{i_1 i_2 \dots i_N}\).
 - Imposing algebraic relations among these amplitudes defines a **variety** inside projective space \(\mathbb{P}^{d^N - 1}\).
 
 **Example:**
 - **Product states** are tensors of rank one. The set of all product states is the **Segre variety**
-  \[
+  $$
   \text{Seg}(\mathbb{P}^{d-1} \times \cdots \times \mathbb{P}^{d-1}) \subset \mathbb{P}^{d^N - 1}.
-  \]
+  $$
 
 ## 2. Varieties from Entanglement Structure
 
