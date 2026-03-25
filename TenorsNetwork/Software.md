@@ -9,17 +9,21 @@ aliases:
 ---
 
 
-- **TensorDec.jl**: tools for the [[Tensor Decomposition|decomposition]] of tensors
+- **TensorDec.jl**: tools for the [[Tensor Decomposition| Tensor Decomposition]] of tensors
+	-  Authors: Bernard Mourrain, Enrica Barrilli, Rima Khouja
 	-  [src](https://github.com/AlgebraicGeometricModeling/TensorDec.jl)(Julia) [doc](https://AlgebraicGeometricModeling.github.io/TensorDec.jl/) 
 	  
 - **MomentPolynomialOpt.jl**: solvers of moment and [[Polynomial Optimization|polynomial optimization]] problems based on moment relaxations
+	 - Authors: Bernard Mourrain, Lorenzo Baldi, Lucas Gamertsfelder 
 	 -   [src](https://github.com/AlgebraicGeometricModeling/MomentPolynomialOpt.jl/) (Julia)  [doc](https://AlgebraicGeometricModeling.github.io/MomentPolynomialOpt.jl/) 
 	   
  - **AlgebraicSolvers.jl**: solvers of zero-dimensional multivariate polynomial systems, using normal form computations based on resultant constructions, Groebner basis, ...
+	 -  Authors: Bernard Mourrain, Carles Checa, Simon Telen
 	 -  [src](https://github.com/AlgebraicGeometricModeling/AlgebraicSolvers.jl) (Julia)  [doc](https://AlgebraicGeometricModeling.github.io/AlgebraicSolvers.jl/) 
 	   
  - **G+Smo**:  [G+Smo] G+Smo (Geometry + Simulation Modules, pronounced "gismo") is an open-source library that brings together mathematical tools for geometric design and numerical simulation, including arbitrary dimension tensor-product and truncated hiearchical splines.
-	 -  [src](https://github.com/gismo/gismo) (C++) [doc](https://gismo.github.io) 
+	 - Main contributor: Angelos Manztaflaris
+	 - [src](https://github.com/gismo/gismo) (C++) [doc](https://gismo.github.io) 
 
 - **SegVer O(1,2)**: tool for checking defectivity of Segre-Veronese varieties embedded by O(1,2).
      - Author: Matěj Doležálek 
