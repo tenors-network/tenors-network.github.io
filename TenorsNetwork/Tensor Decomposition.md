@@ -14,7 +14,7 @@ tags:
  - Cactus-Rank Decomposition
  - Border rank
 
-[[Low rank approximation]] are also studied.
+[[Low rank approximation]] problems are also studied.
 ## Rank or Waring decomposition 
 
 This decomposition also called rank decomposition consists in decomposing a symmetric tensor $F$ of order $d$ as 
