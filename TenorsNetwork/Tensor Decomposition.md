@@ -7,7 +7,7 @@ tags:
   - decomposition
 ---
 
-[[Tensors|Tensor]] decomposition is an important problem in the study of tensor properties, since it allows to reveal hidden structures.  Several types of decomposition and ranks are investigated:
+[[Tensors|What is a tensor?]] decomposition is an important problem in the study of tensor properties, since it allows to reveal hidden structures.  Several types of decomposition and ranks are investigated:
 
  - Rank or Waring Decomposition
  - Generalized Additive Decomposition
@@ -15,6 +15,7 @@ tags:
  - Border rank
 
 [[Low rank approximation]] problems are also studied.
+
 ## Rank or Waring decomposition 
 
 This decomposition also called rank decomposition consists in decomposing a symmetric tensor $F$ of order $d$ as 
