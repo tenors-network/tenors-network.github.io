@@ -6,6 +6,7 @@ tags:
   - polynomial
   - WP1
   - geometry
+  - course
 ---
 **Authors:** Matteo Bechere, Sami Halase, Francesco Maria Mascarin
 

@@ -9,3 +9,8 @@ tags:
 ---
 **Authors:** Matteo Bechere, Henri Breloer
 
+
+## Tensors with symmetries
+
+## Tensor with structured decomposition 
+
