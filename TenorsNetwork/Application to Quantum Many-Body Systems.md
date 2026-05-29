@@ -1,10 +1,11 @@
 ---
-title: Application to Quantum Manay-Body Systems
+title: Application to Quantum Many-Body Systems
 tags:
   - WP3
   - application
-author: " Otto"
+author:
 ---
+**Author:** Otto Schmidt
 
 In quantum many-body physics, one often studies **families of quantum states** that are defined by algebraic constraints. These families naturally form **algebraic varieties**, i.e. solution sets of polynomial equations.
 

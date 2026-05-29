@@ -7,7 +7,7 @@ tags:
   - WP1
   - geometry
 ---
-DC5, DC6, DC3
+**Authors:** Matteo Bechere, Sami Halase, Francesco Maria Mascarin
 
 Optimization means solving problems of the form
 $$

@@ -6,7 +6,7 @@ tags:
   - application
   - WP3
 ---
-DC12, DC14
+**Authors:** Jonas Britz, Younes Naceur
 
 # Courses
 

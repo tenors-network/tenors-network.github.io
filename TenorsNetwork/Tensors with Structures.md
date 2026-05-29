@@ -4,5 +4,8 @@ tags:
   - tensor
   - WP2
   - algorithms
+  - WP1
+  - geometry
 ---
-DC7, DC5
+**Authors:** Matteo Bechere, Henri Breloer
+
