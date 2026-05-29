@@ -2,7 +2,7 @@
 title: Application to Quantum Manay-Body Systems
 tags:
   - WP3
-  - applications
+  - application
 author: " Otto"
 ---
 

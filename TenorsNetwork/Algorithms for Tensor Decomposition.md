@@ -6,12 +6,12 @@ tags:
   - tensor
   - decomposition
   - WP2
-  - algorithms
-author: DC1, DC9
+  - algorithm
+author: Enrica Barrilli, Oriol Reig
 ---
 DC1, DC9
 
-[[Tensor|TenorsNetwork/What is a tensor?]] decomposition is an important problem in the study of tensor properties, since it allows to reveal hidden structures.  Several types of decomposition and ranks are investigated:
+[[TenorsNetwork/What is a tensor?|Tensor]] decomposition is an important problem in the study of tensor properties, since it allows to reveal hidden structures.  Several types of decomposition and ranks are investigated:
  - Rank or Waring Decomposition
  - Generalized Additive Decomposition
  - Cactus-Rank Decomposition

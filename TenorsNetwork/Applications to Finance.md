@@ -2,7 +2,7 @@
 title: Applications to Finance
 tags:
   - WP3
-  - applications
+  - application
 ---
 
 DC13
