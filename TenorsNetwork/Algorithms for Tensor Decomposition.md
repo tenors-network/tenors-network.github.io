@@ -1,20 +1,24 @@
 ---
-title: Tensor Decomposition
+title: Algorithms for Tensor Decomposition
 tags:
   - polynomial
   - course
   - tensor
   - decomposition
+  - WP2
+  - algorithms
+author: DC1, DC9
 ---
+DC1, DC9
 
-[[Tensors|What is a tensor?]] decomposition is an important problem in the study of tensor properties, since it allows to reveal hidden structures.  Several types of decomposition and ranks are investigated:
-
+[[Tensor|TenorsNetwork/What is a tensor?]] decomposition is an important problem in the study of tensor properties, since it allows to reveal hidden structures.  Several types of decomposition and ranks are investigated:
  - Rank or Waring Decomposition
  - Generalized Additive Decomposition
  - Cactus-Rank Decomposition
  - Border rank
 
 [[Low rank approximation]] problems are also studied.
+# Tensor decompositions
 
 ## Rank or Waring decomposition 
 
@@ -42,7 +46,11 @@ where  $\omega_i$ is a symmetric tensor of degree $k_i$, $L_i$ is a linear form 
 ## Cactus rank decomposition
 
 
-## Border rank
+## Border rank decomposition 
+
+# Algorithms
+
+# Courses
 
 - [The cheapest tensors (tensors of minimal border rank)](https://drive.google.com/file/d/1gr9l6-TC1oD7In5aQNHDcmP7H6za74Tr/view?usp=sharing)|[Joseph Landsberg (Texas A&M University)](https://people.tamu.edu/~jml//index.html)
   [Slides Part 1](https://drive.google.com/file/d/19Yvxie228dtGn4s4XJDFjCNbxLoghvj7/view?usp=sharing) [Slides Part 2](https://drive.google.com/file/d/1kV0-dYJsxbjPrMEy_EDqrbDNYEVUTsEN/view?usp=sharing)  [Exercises](https://drive.google.com/file/d/1Oe-qWPZbyQ-GMNoviPiT3Ef7PE0c8hLm/view?usp=sharing)  [Recording](https://youtu.be/kiUzk6fglOs) (Part 1)  [Recording](https://youtu.be/nPTqgaPuLAk)| (Part 2)

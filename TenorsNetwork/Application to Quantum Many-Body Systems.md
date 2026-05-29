@@ -1,4 +1,10 @@
-# Algebraic Varieties in Quantum Many-Body Physics
+---
+title: Application to Quantum Manay-Body Systems
+tags:
+  - WP3
+  - applications
+author: " Otto"
+---
 
 In quantum many-body physics, one often studies **families of quantum states** that are defined by algebraic constraints. These families naturally form **algebraic varieties**, i.e. solution sets of polynomial equations.
 

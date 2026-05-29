@@ -9,7 +9,7 @@ aliases:
 ---
 
 
-- **TensorDec.jl**: tools for the [[Tensor Decomposition| Tensor Decomposition]] of tensors
+- **TensorDec.jl**: tools for the [[Algorithms for Tensor Decomposition| Tensor Decomposition]] of tensors
 	-  Authors: Bernard Mourrain, Enrica Barrilli, Rima Khouja
 	-  [src](https://github.com/AlgebraicGeometricModeling/TensorDec.jl)(Julia) [doc](https://AlgebraicGeometricModeling.github.io/TensorDec.jl/) 
 	  
