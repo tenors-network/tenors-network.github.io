@@ -7,5 +7,6 @@ tags:
   - WP1
   - geometry
 ---
+**Authors:** Enrica Barrilli, Oriol Reig 
 
-DC1, DC9
+
