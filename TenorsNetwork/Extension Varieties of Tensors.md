@@ -1,11 +1,9 @@
 ---
 title: Extension Varieties of Tensors
 tags:
-  - optimization
-  - quantum
-  - polynomial
   - WP1
   - geometry
+  - tensor
 ---
 **Authors:** Enrica Barrilli, Oriol Reig 
 
