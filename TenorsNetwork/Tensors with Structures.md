@@ -34,3 +34,5 @@ The resulting strategy ([Algorithm 4.1.](https://arxiv.org/pdf/2606.25712)) is t
 This is valuable because standard decomposition methods, that don't exploit structured data, may struggle with the original tensor, even when a short decomposition exists. In [Symmetric tensor decomposition on rational varieties](https://arxiv.org/abs/2606.25712) we give an example ([Section 4.1](https://arxiv.org/pdf/2606.25712)) in which a direct method fails on a symmetric tensor of size 6 and order 4, while the structure-aware approach makes the decomposition possible.
 
 The takeaway message is that having structure on your tensors is not just an extra restriction, instead it is useful geometric information that, when incorporated in the decomposition methods, often allows to solve decomposition problems that would otherwise be out of reach.
+
+To dive deeper into the topic, more technical presentation of parts of the paper [Symmetric tensor decomposition on rational varieties](https://arxiv.org/abs/2606.25712) can [be found on Youtube](https://www.youtube.com/watch?v=rA4nNGRQBtM).
