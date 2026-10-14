@@ -48,7 +48,7 @@ $$
 In the expression, the tangent space is identified with the Ext module. A generalization may be obtained for $\mu_M$ a structure tensor of a finite-dimensional $S$-module.
 
 
-Relevant articles: [arXiv:2602.12762](https://arxiv.org/pdf/2602.12762)
+Relevant articles: [arXiv:2602.12762](https://arxiv.org/pdf/2602.12762), [arXiv:2610.17875](https://arxiv.org/pdf/2610.17875)
 
 [TENORS talk slides](https://drive.google.com/file/d/1WcBKLtgkDYeO2dv8y-l8zTk5s-nLW2bk/view)
 
