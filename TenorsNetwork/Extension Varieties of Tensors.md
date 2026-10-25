@@ -29,7 +29,19 @@ $$
 \Lambda_T=\sum_{i=1}^r\omega_i\,\mathrm{ev}_{\xi_i}.
 $$
 
-Let $\rho:R'^{\,\ast}_{d'}\to R_d^{\ast}$, where $R'=K[x_1,\dots,x_{n'}]\supseteq R$, $n'\ge n$, $d'\ge d$. An *extension* of $\Lambda_T$ corresponds to an element $\tilde\Lambda\in R'^{\,\ast}_{d'}$ such that $\rho(\tilde\Lambda)=\Lambda_T$ and its Hankel operator has the same rank $r$. A degree extension corresponds to $n'=n$, $d'>d$, and a dimension extension to $d'=d$, $n'>n$.
+Let
+
+$$
+\rho : (R'_{d'})^{\ast} \to (R_d)^{\ast},
+$$
+
+where
+
+$$
+R'=K[x_1,\dots,x_{n'}]\supseteq R, \qquad n'\geq n, \qquad d'\geq d.
+$$
+
+An *extension* of $\Lambda_T$ corresponds to an element $\tilde\Lambda\in R'^{\,\ast}_{d'}$ such that $\rho(\tilde\Lambda)=\Lambda_T$ and its Hankel operator has the same rank $r$. A degree extension corresponds to $n'=n$, $d'>d$, and a dimension extension to $d'=d$, $n'>n$.
 
 ## Hankel operators and extensions
 
