@@ -44,4 +44,16 @@ In [4], we apply moment relaxations with differential constraints to **quantum o
 # Courses
 
 -  [Compatibility problems in quantum information](https://drive.google.com/file/d/1F8wkrT4JAQfWFxB_3ncruZYvJmd82m61/view?usp=sharing)|[Omar Fawzi (École Normale Supérieure de Lyon)](https://perso.ens-lyon.fr/omar.fawzi/)
-	- [Slides](https://drive.google.com/file/d/1j4Jq_vYYZBdF5R1bvKH2Yh6edtSfBE1C/view?usp=sharing) [Recording](https://youtu.be/Htk5io1cSls) 
+	- [Slides](https://drive.google.com/file/d/1j4Jq_vYYZBdF5R1bvKH2Yh6edtSfBE1C/view?usp=sharing) [Recording](https://youtu.be/Htk5io1cSls)
+   
+ - * [Semidefinite Programming in Quantum Theory](https://sites.google.com/site/jamiesikora/teaching/sdps-in-quantum-theory) | Jamie Sikora (Perimeter Institute)
+  * [Lecture notes and recordings](https://sites.google.com/site/jamiesikora/teaching/sdps-in-quantum-theory) — SDP duality, quantum separability, symmetric extensions, and NPA hierarchy.
+
+* [Advanced Topics in Quantum Information Theory](https://cs.uwaterloo.ca/~watrous/QIT-notes/) | John Watrous (University of Waterloo)
+  * [Lecture notes](https://cs.uwaterloo.ca/~watrous/QIT-notes/) — Conic programming, nonlocal games, and the NPA hierarchy.
+
+* [Semidefinite Programming for Quantum Information](https://webs.uab.cat/giq/courses/) | Arnau Diebra (Universitat Autònoma de Barcelona)
+  * [Video lectures](https://www.youtube.com/playlist?list=PLj60o6B_p4vYguKK1mkmmI3B5UUBtm2NE) — SDP fundamentals, entanglement detection, nonlocality, and numerical implementations in Python.
+
+* [Semidefinite Programming as a Tool for Quantum Information](https://jessicabavaresco.github.io/projects/course_qalypso_2026/) | Marco Túlio Quintino and Jessica Bavaresco (QALYPSO Summer School 2026)
+  * [Lecture slides and notes](https://jessicabavaresco.github.io/projects/course_qalypso_2026/) — SDP duality, numerical certificates, quantum channel discrimination, and symmetric-extension hierarchies.
