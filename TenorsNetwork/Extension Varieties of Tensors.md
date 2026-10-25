@@ -55,7 +55,7 @@ $$
 H^B_\Lambda(\boldsymbol{h})=\big(h_{\alpha+\beta}\big)_{\alpha,\beta\in B},
 $$
 
-where $h_\gamma \ \text{ is the given value if } |\gamma|\le d \text{ and a new unknown otherwise,}$ and a new unknown otherwise, and, when $\det H^B_\Lambda(\boldsymbol{h})\neq0$, the formal multiplication matrices
+where $h_\gamma \ \text{ is the given value if } |\gamma|\le d$ and a new unknown otherwise, and, when $\det H^B_\Lambda(\boldsymbol{h})\neq0$, the formal multiplication matrices
 
 $$
 M_i(\boldsymbol{h})=\big(H^B_\Lambda(\boldsymbol{h})\big)^{-1}H^B_{x_i\star\Lambda}(\boldsymbol{h}),\qquad 1\le i\le n.
@@ -71,7 +71,7 @@ and then $\tilde\Lambda$ is unique. This is a polynomial system of degree at mos
 
 Since $H_{x_i\star\Lambda}=M_{x_i}^t\circ H_\Lambda$, the points of $\tilde\Lambda$ are given by the common eigenvectors of the multiplication-by- $x_i$ operators $M_{x_i}$, whose eigenvalues are the coordinates $\xi_{j,i}$ of the points. If the joint eigenvalues are $r$ distinct points, then $I_{\tilde\Lambda}$ is radical, and the weights $\omega_j$ are obtained from the linear system $\Lambda_T=\sum_j\omega_j\,\mathrm{ev}_{\xi_j}$ on $R_d$. Otherwise, it gives a *generalized additive decomposition* of length $r$ [BMT].
 
-A **dimension extension** lifts $T\in S_d$ to a tensor in $n'>n$ variables, by the same principle: we look for $\tilde\Lambda$ on $R'=K[x_1,\dots,x_{n'}]$ with $\rho(\tilde\Lambda)=\Lambda_T$ and $\mathrm{rank}\,H_{\tilde\Lambda}=r$, and the extension variety is the set of all such $\tilde\Lambda$.
+A dimension extension lifts $T\in S_d$ to a tensor in $n'>n$ variables, by the same principle: we look for $\tilde\Lambda$ on $R'=K[x_1,\dots,x_{n'}]$ with $\rho(\tilde\Lambda)=\Lambda_T$ and $\mathrm{rank}\,H_{\tilde\Lambda}=r$, and the extension variety is the set of all such $\tilde\Lambda$.
 
 ## References
 
