@@ -55,13 +55,7 @@ $$
 H^B_\Lambda(\boldsymbol{h})=\big(h_{\alpha+\beta}\big)_{\alpha,\beta\in B},
 $$
 
-where
-
-$$
-h_\gamma \ \text{ is the given value if } |\gamma|\le d \text{ and a new unknown otherwise,}
-$$
-
-and a new unknown otherwise, and, when $\det H^B_\Lambda(\boldsymbol{h})\neq0$, the formal multiplication matrices
+where $h_\gamma \ \text{ is the given value if } |\gamma|\le d \text{ and a new unknown otherwise,}$ and a new unknown otherwise, and, when $\det H^B_\Lambda(\boldsymbol{h})\neq0$, the formal multiplication matrices
 
 $$
 M_i(\boldsymbol{h})=\big(H^B_\Lambda(\boldsymbol{h})\big)^{-1}H^B_{x_i\star\Lambda}(\boldsymbol{h}),\qquad 1\le i\le n.
