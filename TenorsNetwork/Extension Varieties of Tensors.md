@@ -47,7 +47,21 @@ An *extension* of $\Lambda_T$ corresponds to an element $\tilde\Lambda\in R'^{\,
 
 To any $\Lambda\in R^{\ast}$ we associate the Hankel operator $H_\Lambda:R\to R^{\ast}$, $p\mapsto p\star\Lambda$, where $(p\star\Lambda)(q)=\Lambda(pq)$. Its kernel $I_\Lambda$ is an ideal, $A_\Lambda=R/I_\Lambda$ is Gorenstein, and $\dim_{K}A_\Lambda=\mathrm{rank}\,H_\Lambda$. We know the first terms of $\Lambda$, namely the moments $h_\alpha=\Lambda_T(\boldsymbol{x}^\alpha)$ for $|\alpha|\le d$, and we look for the remaining ones.
 
-Fix a set $B=\{\boldsymbol{x}^{\beta_1},\dots,\boldsymbol{x}^{\beta_r}\}$ of monomials *connected to* $1$, i.e. each $m\in B$ is $1$ or $m=x_jm'$ with $m'\in B$. Put $B^+=B\cup x_1B\cup\dots\cup x_nB$. We consider the formal Hankel matrix $H^B_\Lambda(\boldsymbol{h})=(h_{\alpha+\beta})_{\alpha,\beta\in B}$, where $h_\gamma$ is the given value if $|\gamma|\le d$ and a new unknown otherwise, and, when $\det H^B_\Lambda(\boldsymbol{h})\neq0$, the formal multiplication matrices
+Fix a set $B=\{\boldsymbol{x}^{\beta_1},\dots,\boldsymbol{x}^{\beta_r}\}$ of monomials *connected to* $1$, i.e. each $m\in B$ is $1$ or $m=x_jm'$ with $m'\in B$. Put $B^+=B\cup x_1B\cup\dots\cup x_nB$. 
+
+We consider the formal Hankel matrix
+
+$$
+H^B_\Lambda(\boldsymbol{h})=\big(h_{\alpha+\beta}\big)_{\alpha,\beta\in B},
+$$
+
+where
+
+$$
+h_\gamma \ \text{ is the given value if } |\gamma|\le d \text{ and a new unknown otherwise,}
+$$
+
+and a new unknown otherwise, and, when $\det H^B_\Lambda(\boldsymbol{h})\neq0$, the formal multiplication matrices
 
 $$
 M_i(\boldsymbol{h})=\big(H^B_\Lambda(\boldsymbol{h})\big)^{-1}H^B_{x_i\star\Lambda}(\boldsymbol{h}),\qquad 1\le i\le n.
