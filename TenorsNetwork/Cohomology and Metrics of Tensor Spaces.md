@@ -53,6 +53,39 @@ Relevant articles: [arXiv:2602.12762](https://arxiv.org/pdf/2602.12762), [arXiv:
 [TENORS talk slides](https://drive.google.com/file/d/1WcBKLtgkDYeO2dv8y-l8zTk5s-nLW2bk/view)
 
 ## Metrics of Tensor Spaces
+Tensor product of Hilbert spaces admits a natural metric which allows us to study optimization problems.
+
+In the Euclidean setting, we work with a nondegenerate symmetric bilinear form $q$ and consider
+$$
+d_u(x)=q(u-x,u-x).
+$$
+The critical-point condition is
+$$
+q(u-x,v)=0
+\qquad\text{for every }v\in T_xX.
+$$
+For generic $u$, the number of complex critical points is finite and constant, and is called the Euclidean distance degree, denoted $\operatorname{EDdeg}(X)$.
+
+For the squared Hermitian distance
+$$
+h_u(x)=\langle u-x,u-x\rangle,
+$$
+the corresponding condition is Hermitian orthogonality:
+$$
+\langle u-x,v\rangle=0
+\qquad\text{for every }v\in T_xX.
+$$
+These equations involve complex conjugation and hence define a real algebraic critical-point problem rather than a holomorphic one. The number of critical points can vary between chambers in the space of data tensors. This motivates the Hermitian distance degree (HD degree) as a real enumerative invariant.
+
+A complementary algebraic count is obtained by complexifying this real algebraic system: variables and their complex conjugates are replaced by independent variables. The generic number of solutions of the resulting doubled system is the virtual Hermitian distance degree (vHD degree). It provides an algebraic upper bound for the number of isolated Hermitian critical points for generic data.
+
+We study these invariants for structured varieties, including unitary-invariant matrix varieties and the Veronese cone of symmetric rank-one tensors. If $M\subset\mathbb C^{m\times n}$ is invariant under the action of $U(m)\times U(n)$, its Hermitian critical-point problem reduces to a Euclidean critical-point problem on an associated absolutely symmetric singular-value slice $S\subset\mathbb R^{\min(m,n)}$. At the level of enumerative invariants, this yields
+$$
+\operatorname{HDdeg}(M)=\operatorname{rEDdeg}(S),
+$$
+where $\operatorname{rEDdeg}$ denotes the real Euclidean distance degree.
+
+Relevant article: Nikhil Ken, *Hermitian Distance Degree of Unitary-Invariant Matrix Varieties*, [arXiv:2602.10737](https://arxiv.org/abs/2602.10737).
 
 ## Courses
 
