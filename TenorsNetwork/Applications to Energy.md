@@ -38,6 +38,7 @@ _WIP_
 ## References
 
 1. Blog post by Letif Mones (2020): "A Gentle Introduction to Power Flow". Published on _Invenia Blog_ ([web](https://invenia.github.io/blog/2020/12/04/pf-intro/)).
-2. Article by Wang, Magron, Lasserre (2022): "Certifying global optimality of AC-OPF solutions via sparse polynomial optimization". Published in _Electric Power Systems Research_ ([journal](https://doi.org/10.1016/j.epsr.2022.108683), [preprint](https://arxiv.org/abs/2109.10005)).
-3. Article by Le Franc, Magron, Lasserre, Ruiz, Panciatici (2023): "Minimal sparsity for second-order moment-SOS relaxations of the AC-OPF problem". Published in _IEEE Transactions on Power Systems_ ([journal](https://doi.org/10.1109/TPWRS.2023.3333691), [preprint](https://arxiv.org/abs/2305.19232)).
-4. Data repository (v23, 2023): "`pglib-opf`: Benchmarks for the Optimal Power Flow Problem". Published on GitHub ([web](https://github.com/power-grid-lib/pglib-opf)).
+2. Article by Ghaddar, Marecek, Mevissen (2015): Optimal Power Flow as a Polynomial Optimization Problem. Published in _IEEE Transactions on Power Systems Volume_ ([journal](https://ieeexplore.ieee.org/abstract/document/7024950/), [preprint](https://arxiv.org/abs/1404.3626)).
+3. Article by Wang, Magron, Lasserre (2022): "Certifying global optimality of AC-OPF solutions via sparse polynomial optimization". Published in _Electric Power Systems Research_ ([journal](https://doi.org/10.1016/j.epsr.2022.108683), [preprint](https://arxiv.org/abs/2109.10005)).
+4. Article by Le Franc, Magron, Lasserre, Ruiz, Panciatici (2023): "Minimal sparsity for second-order moment-SOS relaxations of the AC-OPF problem". Published in _IEEE Transactions on Power Systems_ ([journal](https://doi.org/10.1109/TPWRS.2023.3333691), [preprint](https://arxiv.org/abs/2305.19232)).
+5. Data repository (v23, 2023): "`pglib-opf`: Benchmarks for the Optimal Power Flow Problem". Published on GitHub ([web](https://github.com/power-grid-lib/pglib-opf)).
